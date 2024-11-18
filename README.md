@@ -1,2 +1,6 @@
-# Ejemplo-SOLID-o-c-notificaiones
-((https://docs.google.com/document/d/1CIVew0e7j7jdf3g5uOSw9427_e0Xyz3S6fNhsDytJs8/edit?usp=sharing))
+# Documentación del Proyecto
+
+Para más información sobre la funcionalidad del proyecto, consulta el siguiente documento:
+
+[Documentación del Proyecto (Word)](docs/Ejemplo 'O/C' notificaciones .docx)
+
